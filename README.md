@@ -14,14 +14,14 @@ The flowchart below visualizes the methodology and execution sequence implemente
 ```mermaid
 graph TD
     subgraph Quantum Layer
-        A[Quantum State / Qubit Initialization] --> B[Channel Transmission & Perturbations]
+        A["Quantum State / Qubit Initialization"] --> B["Channel Transmission & Perturbations"]
     end
     subgraph Information Processing
-        B --> C[Quantum Error Correction<br>Topological Surface Code / BB84 Protocol]
-        C --> D[Tamper Detection / Measurement Statistics]
+        B --> C["Quantum Error Correction<br>Topological Surface Code / BB84 Protocol"]
+        C --> D["Tamper Detection / Measurement Statistics"]
     end
     subgraph System Validation
-        D --> E[Secure Key Rate & Fidelity Assessment]
+        D --> E["Secure Key Rate & Fidelity Assessment"]
     end
 ```
 
