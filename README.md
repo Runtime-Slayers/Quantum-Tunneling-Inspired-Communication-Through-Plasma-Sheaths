@@ -1,7 +1,7 @@
 # BREAKTHROUGH 02: Atmospheric Re-entry Plasma Sheath Communication Using Quantum Tunneling Analogy
 
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
+![Quantum](https://img.shields.io/badge/Domain-Quantum-blue) ![Plasma](https://img.shields.io/badge/Domain-Plasma-blue)
 
 This repository implements the research pipeline for the **BREAKTHROUGH 02: Atmospheric Re-entry Plasma Sheath Communication Using Quantum Tunneling Analogy** project, developed by the Runtime-Slayers research group.
 
@@ -40,7 +40,7 @@ graph TD
 
 ## 🔍 Abstract & Research Context
 
-
+### From Absolute Zero Knowledge to Publishable Paper --- # PART A: UNDERSTANDING THE WORLD YOU'RE ENTERING --- ## 1. WHAT IS THIS ABOUT? (Explained Like You're 10) When a spacecraft (capsule, missile, shuttle) re-enters Earth's atmosphere at hypersonic speed (Mach 15-25, which is 5-8 km/s), the air in front of it gets SO hot (3,000-10,000°C) that it turns into **plasma** — a gas where electrons have been ripped away from atoms. This plasma forms a **sheath** (shell) around the vehicle.
 
 ---
 
