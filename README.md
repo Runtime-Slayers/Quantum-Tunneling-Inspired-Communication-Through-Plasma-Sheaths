@@ -9,20 +9,31 @@ This repository implements the research pipeline for the **BREAKTHROUGH 02: Atmo
 
 ## 📊 Pipeline Architecture
 
-The flowchart below visualizes the methodology and execution sequence implemented in this project:
+The flowchart below visualizes the methodology, code modules, and logical execution sequence of the project:
 
 ```mermaid
 graph TD
-    subgraph Quantum Layer
-        A["Quantum State / Qubit Initialization"] --> B["Channel Transmission & Perturbations"]
+    subgraph "Phase 1: Environment & System Setup"
+        N0["Ingest & Parse: Atmospheric Re-entry Plasma Sheath Communication Using Quantum Tunneling Analogy"]
+        N1["From Absolute Zero Knowledge to Publishable Paper"]
     end
-    subgraph Information Processing
-        B --> C["Quantum Error Correction<br>Topological Surface Code / BB84 Protocol"]
-        C --> D["Tamper Detection / Measurement Statistics"]
+    subgraph "Phase 2: Signal & Core Processing"
+        N2["WHAT IS THIS ABOUT? (Explained Like Youre 10)"]
+        N3["BACKGROUND KNOWLEDGE: BUILDING UP FROM ZERO"]
+        N4["Plasma Permittivity"]
     end
-    subgraph System Validation
-        D --> E["Secure Key Rate & Fidelity Assessment"]
+    subgraph "Phase 3: Validation & Performance Evaluation"
+        N5["Transfer Matrix"]
+        N6["Multi Layer Transmission"]
+        N7["Blackout Profile"]
     end
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
 ```
 
 ---
